@@ -1,0 +1,3 @@
+original_tweet = "I luv my &lt;3 iphone &amp; you’re awsm apple. DisplayIsAwesome, sooo happppppy  http://www.apple.com"
+
+ Final cleaned tweet: “I love my iphone & you are awesome apple. Display Is Awesome, so happy!” , <3 , 🙂
